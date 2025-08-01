@@ -1,0 +1,6 @@
+August 1 2025
+Projected changes
+-Modularize the codebase for better maintainability and scalability.
+- Separate the Camera and the image classification into two distinct modules.
+- create a image buffer to store images for processing. Also so that a new module (below can be added)
+- A new module which can follow a path and avoid obstacles.
